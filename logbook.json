@@ -5,7 +5,7 @@
     "timezone": "Africa/Johannesburg",
     "base_total_minutes": 7200,
     "base_total_hours_display": "120:00",
-    "last_updated": "2026-06-09T14:05:54.567225+00:00"
+    "last_updated": "2026-06-10T07:21:32.875902+00:00"
   },
   "entries": [
     {
@@ -269,6 +269,28 @@
       "pic": "",
       "remarks": "",
       "running_total": "132:24",
+      "instructor": "THYS POTGEITER SNR",
+      "role": "copilot"
+    },
+    {
+      "date": "2026-06-10",
+      "aircraft_type": "UH-1D",
+      "registration": "ZS-HGC",
+      "engine_type": "",
+      "pic_name": "THYS POTGEITER SNR",
+      "copilot": "Self",
+      "from": "FAGM",
+      "to": "FAGM",
+      "departure_local": "07:18",
+      "arrival_local": "09:00",
+      "departure_utc": "0518",
+      "arrival_utc": "0700",
+      "duration_minutes": 102,
+      "duration_display": "01:42",
+      "dual": "01:42",
+      "pic": "",
+      "remarks": "",
+      "running_total": "134:06",
       "instructor": "THYS POTGEITER SNR",
       "role": "copilot"
     }
